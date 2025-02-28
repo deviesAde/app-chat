@@ -15,10 +15,6 @@ Follow the steps below to set up the project:
 
 ### 1. Clone the repository
 
-```shell
-git clone https://github.com/zidaneelfasya/E-Commerce-hldy.git
-cd E-Commerce-hldy
-```
 
 ### 2. Install npm and Composer
 
